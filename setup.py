@@ -16,7 +16,7 @@ setup(name='colored_json_print',
       author_email='cinicraft@me.com',
       license='MIT',
       packages=['colored_json_print'],
-      install_requires=['pyink', 'pygments'],
+      install_requires=['pygments'],
       dependency_links=[
         'git+https://github.com/MattAndrzejczuk/PyInk.git@master'
       ],
